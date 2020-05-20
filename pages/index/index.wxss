@@ -1,0 +1,8 @@
+/* pages/index/index.wxss */
+.nav-default{
+  font-size: 50rpx;
+  color:blue;
+}
+.nav-hover{
+  color:red;
+}

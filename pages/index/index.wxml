@@ -1,0 +1,8 @@
+<view class="container">
+  <image src='{{src}}' class="abc"></image>
+  <text>{{name}}</text>
+  <view>
+    <text>我</text><navigator style='display:inline;' url='/pages/weekly/weekly' open-type="redirect" hover-class='nav-hover' class=".nav-default">每周推荐</navigator><text>一部电影</text>
+  </view>
+  <button open-type="getUserInfo" bindgetuserinfo="getMyInfo">获取头像和昵称</button>
+</view>

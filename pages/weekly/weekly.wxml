@@ -1,0 +1,5 @@
+<!--pages/weekly/weekly.wxml-->
+<view class="container">
+  <text>本周推荐</text>
+  <text>教父</text>
+</view>
